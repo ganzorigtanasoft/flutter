@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "843003625940",
+    "firebase_url": "https://habido-e778a-default-rtdb.firebaseio.com",
+    "project_id": "habido-e778a",
+    "storage_bucket": "habido-e778a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843003625940:android:7657780a5e88f26a2c5641",
+        "android_client_info": {
+          "package_name": "mn.app.habido_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843003625940-bjjppr5uon8bf9tfe881nrma5rsc0eid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mn.app.habido_app",
+            "certificate_hash": "e4f3ba0f6a25dfb7d731e680c714a4697764dfee"
+          }
+        },
+        {
+          "client_id": "843003625940-p3ang651b4vfll5cp56fu937uhdn7rp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mn.app.habido_app",
+            "certificate_hash": "8d5b2690db5fba42513576aeb6e6e00488a35d89"
+          }
+        },
+        {
+          "client_id": "843003625940-hql8v1epiumala9ll76ida24qqelfl5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBay-AY3_JDdsPMgjH8RPonfHn8VMp1Fus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843003625940-hql8v1epiumala9ll76ida24qqelfl5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843003625940-gacupl96f7ra5bpo15rb7a42i0d9s8p3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mn.app.habidoApp",
+                "app_store_id": "mn.app.habidoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
